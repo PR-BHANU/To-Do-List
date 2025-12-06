@@ -16,4 +16,4 @@ User-Friendly Interface: The app has a clean and modern design, using the Inter 
 Responsive Design: The app is designed to be mobile-friendly with a viewport meta tag.
 
 # How It Works:
-The JavaScript code handles all the interactive functionality. It listens for clicks on the "Add Task" button and keyboard presses on the input field. When a new task is added, a new list item (<li>) is dynamically created and appended to the task list. Each list item is also given its own "Complete" and "Delete" buttons, with event listeners attached to handle the respective actions.
+The JavaScript code handles all the interactive functionality. It listens for clicks on the "Add Task" button and keyboard presses on the input field. When a new task is added, a new list item is dynamically created and appended to the task list. Each list item is also given its own "Complete" and "Delete" buttons, with event listeners attached to handle the respective actions.
